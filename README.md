@@ -31,15 +31,21 @@ This repository documents a modified interpretation of that idea using EEPROM an
 
 ## Project Images and Media
 The folder also contains project photos and videos that can be used as visual documentation:
+
 <img width="3840" height="2160" alt="IMG-20251212-WA0002" src="https://github.com/user-attachments/assets/76156e2d-dfcb-466a-b6bd-8504165a827b" />
+
 
 <img width="3072" height="4096" alt="IMG_20251213_121223" src="https://github.com/user-attachments/assets/83823b2c-cb05-4449-bc01-a21c87119c93" />
 
+
 <img width="2160" height="3840" alt="IMG-20251213-WA0006" src="https://github.com/user-attachments/assets/83cadb44-78e3-46f1-93f4-2da0e9f89750" />
-#UPLODER CIRCUIT OF EEPROM
+
+
+##UPLODER CIRCUIT OF EEPROM
 <img width="4096" height="3072" alt="IMG_20251211_233708" src="https://github.com/user-attachments/assets/fc9d376e-bd37-493c-9282-8c52540c0de4" />
 
-#DEMONSTRATION 
+
+##DEMONSTRATION VIDEO
 https://github.com/user-attachments/assets/69227999-f500-48cf-a3d7-1649b556c052
 
 
