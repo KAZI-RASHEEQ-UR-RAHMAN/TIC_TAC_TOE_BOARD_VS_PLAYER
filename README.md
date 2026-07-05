@@ -1,3 +1,9 @@
+###### Author: Kazi Rasheeq -Ur- Rahman Niloy
+###### Department: Electrical & Electronic Engineering (MAK-18)
+###### University: Bangladesh Army International University of Science & Technology (BAIUST)
+
+
+
 # TIC TAC TOE (BOARD VS PLAYER)
 A TTL Based TIC TAC TOE Game using Atgmega as EEPROM and FILP FLOP . Also Resistor used to store the value. This game played by board and player, where either player or the board gives the first move and the game must go on until its going to Draw or Lose or Win.
 
@@ -34,7 +40,7 @@ The folder also contains project photos and videos that can be used as visual do
 
 <img width="3840" height="2160" alt="IMG-20251212-WA0002" src="https://github.com/user-attachments/assets/76156e2d-dfcb-466a-b6bd-8504165a827b" />
 
-
+BEFORE CONNECTINGS WIRES
 <img width="3072" height="4096" alt="IMG_20251213_121223" src="https://github.com/user-attachments/assets/83823b2c-cb05-4449-bc01-a21c87119c93" />
 
 
