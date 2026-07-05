@@ -50,6 +50,10 @@ BEFORE CONNECTINGS WIRES
 ##UPLODER CIRCUIT OF EEPROM
 <img width="4096" height="3072" alt="IMG_20251211_233708" src="https://github.com/user-attachments/assets/fc9d376e-bd37-493c-9282-8c52540c0de4" />
 
+CIRCUIT
+<img width="2376" height="1080" alt="Screenshot_20251211_112121" src="https://github.com/user-attachments/assets/f909844d-c68a-4761-8cf5-0cd2424c3541" />
+
+
 
 ##DEMONSTRATION VIDEO
 https://github.com/user-attachments/assets/69227999-f500-48cf-a3d7-1649b556c052
